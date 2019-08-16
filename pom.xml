@@ -27,7 +27,7 @@
 		<jackson-annotations.version>2.2.1</jackson-annotations.version>
 
 		<geotools.version>9.4</geotools.version>
-		<postgresql.version>10.10</postgresql.version>
+		<postgresql.version>9.1-901.jdbc4</postgresql.version>
 
 		<commons-io.version>2.0.1</commons-io.version>
 	</properties>
